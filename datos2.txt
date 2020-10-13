@@ -1,3 +1,4 @@
 
 Nombre
-edad
+edad:19
+color favorito: lila
