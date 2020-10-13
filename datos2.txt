@@ -2,3 +2,4 @@
 Nombre
 edad:19
 color favorito: lila
+escuela
